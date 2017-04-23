@@ -33,15 +33,15 @@ Electron,node.js,javascriptの超絶初心者が作ったので色々ひどい�
 インスタンスのURLは一番後ろのスラッシュは取って入力します。  
 例えば`https://mstdn.club`のように入力します。  
 
-すると、URLが表示されるのでブラウザでアクセスし、認証します。  
+すると、URLが表示されるのでブラウザでアクセスし、認証します。  
 認証後、コードが表示されるので、これを入力してください。  
 jsonにアカウント情報が保存されます。  
 
 # 起動方法
 `./node_modules/.bin/electron .`
 
-＃ ライセンス
-MIT  
+# ライセンス
+MIT  
 Thanks! mastodon-api,node-mastodon,photon
 
 Post専用のため特になにもないとは思いますが、くれぐれも自己責任でお願いします。  
