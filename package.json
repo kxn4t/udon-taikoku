@@ -1,5 +1,17 @@
 {
-  "name" : "UdonTaikoku",
-  "version" : "0.0.1",
-  "main" : "main.js"
+  "name": "UdonTaikoku",
+  "version": "0.0.1",
+  "main": "./src/main/main.js",
+  "description": "very simple mastodon client",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kxn4t/udon-taikoku.git"
+  },
+  "author": "kxn4t",
+  "license": "MIT",
+  "dependencies": {
+    "mastodon": "^1.1.1",
+    "mastodon-api": "^1.2.0",
+    "photon": "github:connors/photon"
+  }
 }
